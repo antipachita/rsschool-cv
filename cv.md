@@ -39,3 +39,4 @@ Nothing yet…
 5. FreeCodeCamp JavaScript Algorithms and Data Structures https://www.freecodecamp.org/certification/mrks77/javascript-algorithms-and-data-structures
 
 # Language: #
+English level - A2
