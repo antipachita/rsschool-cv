@@ -1,1 +1,1 @@
-https://antipachita.github.io/rsschool-cv/index/
+https://antipachita.github.io/rsschool-cv/index
